@@ -8,5 +8,6 @@ The goal of this project was to create a simple Data Pipeline using a Tokyo Olym
 3. Azure Databricks (Transformation)
 4. Azure Synapse Analytics (Analytics)
 
-![pipeline](https://github.com/AbhimanyuW/tokyo-olympic-data-pipeline-azure/assets/63635609/a27c2326-94b3-4bae-9937-96b739b629bd)
 
+
+![pipeline](https://github.com/AbhimanyuW/tokyo-olympic-data-pipeline-azure/assets/63635609/b1e08b9e-7748-46b8-8656-5fdd0a805212)
